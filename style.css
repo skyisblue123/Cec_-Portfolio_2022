@@ -172,6 +172,7 @@
   }
 
   .wrap .body .about .about-content img {
+    max-width: 30%;
     margin-top: 40px;
   }
 }
